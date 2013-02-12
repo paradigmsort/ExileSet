@@ -7,6 +7,11 @@ Vigilence
 Exile CARDNAME from your graveyard: Target creature gains vigilence until EOT.
 
 WC02
+Pegasus Savior
+2W
+Creature - Pegasus
+2/1
+Flying
 
 WC03
 Void Knight
@@ -16,6 +21,12 @@ First Strike
 +1/+1 if you own an exiled card.
 
 WC04
+Void Healer
+2W
+Crature - Human Cleric
+T: Prevent 1.
+Voidwatch - Prevent 2 instead.
+1/2
 
 WC05
 Another Knight
@@ -82,5 +93,9 @@ Gain life equal to the number of exiled cards you own.
 Flashback 3W
 
 WC18
+Path of Agriculture
+3W
+Sorcery
+Exile target Creature. Its controller gains life equal to its power.
 
 WC19

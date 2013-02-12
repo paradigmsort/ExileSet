@@ -13,7 +13,7 @@ Flying
 
 BC03
 Grave Unearther
-4B
+2BB
 Creature
 2/2
 When CARDNAME ETB, return target creature card from your graveyard to your hand.
@@ -24,7 +24,6 @@ Voidpython
 Creature - Zombie
 3/2
 Voidwatch - CARDNAME gains Deathtouch until end of turn.
-
 
 BC05
 Unearth Cuthroat
@@ -38,12 +37,33 @@ Unearth B
 BC06
 
 BC07
+Sangir Bloodthirster
+4B
+Creature - Vampire
+3/3
+Sacrifice a creature: CARDNAME gets +2/+2 until end of turn.
+Voidwatch - gains liflink until EOT.
+
 
 BC08
+Zombie Climber
+3BB
+Creature - Zombie
+3/3
+When CARDNAME ETB, draw a card and lose 1 life.
 
 BC09
+Giant Roach R
+3B
+Creature - Insect
+4/2
+Unearth - Pay 3 life.
 
 BC10
+Kjeldoran Goliath
+4B
+4/1
+B: Regenerate CARDNAME
 
 BC11
 
@@ -64,6 +84,11 @@ Target player reveals 2 cards at random from their hand. They choose one and dis
 Voidwatch - Reveal 3 at random instead.
 
 BC15
+Spirit Drain
+3B
+Sorcery
+Target player Loses 3 life and you gain 3 life.
+Flashback - 3B, pay 6 life.
 
 BC16
 Void Dead
@@ -73,7 +98,23 @@ Exile target creature card in a graveyard.
 Voidwatch - Return it to owner's hand instead.
 
 BC17
+Cranial Scrying
+1BB
+Sorcery
+As an additional cost to play CARDNAME, exile three cards from your graveyard.
+Draw three cards. You lose three life.
+
 
 BC18
+Demonic Edict
+3B
+Sorcery
+Target player sacrifices a creature. You gain life equal to that creature's toughness.
 
 BC19
+Cripling Grasp
+1BB
+Enchantment - Aura
+Encahnt Creature
+Enchanted creature get -2/-2.
+Voidwatch - Enchanted Creature gets -4/-4 instead.

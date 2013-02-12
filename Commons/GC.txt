@@ -6,20 +6,35 @@ Reach
 Exile CARDNAME from your graveyard: Target creature gains reach until EOT.
 
 GC02
+Poison Boa
+1G
+Creature - Snake
+2/1
+Deathtouch
 
+2GG
 GC03
+3/4
+Trample
 
 GC04
-Void Giant
+Void Ape
 3G
 3/3
 Voidwatch - Regenerate
 
 GC05
+Playing Mantis
+4G
+2/5
+reach
 
 GC06
 
 GC07
+Fyndhorn Shaman
+T: untap target land.
+1/4
 
 GC08
 Voidwalla
@@ -36,10 +51,20 @@ Voidrampler
 Voidwatch - Trample until EOT.
 
 GC11
+Mire hippo
+5G
+Creature - Hippo
+Swampwalk
+5/3
 
 GC12
 
 GC13
+Greemate
+G
+Instant
+Exile target card in a graveyard.
+Draw a card.
 
 GC14
 

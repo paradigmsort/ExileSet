@@ -11,6 +11,11 @@ Voidwood Sextant
 Voidwatch - Put it onto the battlefield tapped instead.
 
 CC03
+Cycloprdian Golem
+4
+Creature - Golem
+2/3
+Whenever CARDNAME dies, exile it.
 
 CC04
 Tormod's Crypt
@@ -18,5 +23,15 @@ Tormod's Crypt
 Tap, Sacrifice CARDNAME: Exile all cards in target player's graveyard.
 
 CC05
+Thran Glider
+2
+Artifact - Equipment
+equip 1
+T: Equipped Creature gains flying until EOT.
 
 CC06
+Squ'ata Lance
+2
+Artifact - Equipment
+equip 2
+Equipped creature gains +1/+1 and haste.
