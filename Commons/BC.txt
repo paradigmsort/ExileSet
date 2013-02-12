@@ -5,6 +5,11 @@ Zombie Kami
 Exile CARDNAME from your graveyard: Discard a card.
 
 BC02
+Feral Shadow
+2B
+Creature - Spirit
+2/1
+Flying
 
 BC03
 Grave Unearther
@@ -15,6 +20,11 @@ When CARDNAME ETB, return target creature card from your graveyard to your hand.
 Unearth 1BB
 
 BC04
+Voidpython
+Creature - Zombie
+3/2
+Voidwatch - CARDNAME gains Deathtouch until end of turn.
+
 
 BC05
 Unearth Cuthroat
