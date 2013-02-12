@@ -2,3 +2,9 @@ WC01
 1W
 Creauture
 3/1
+
+WC02
+2W
+Creature - Pegasus
+Flying
+2/1
