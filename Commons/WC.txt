@@ -7,4 +7,4 @@ WC02
 2W
 Creature - Pegasus
 Flying
-2/1
+2/2
