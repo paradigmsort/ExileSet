@@ -1,15 +1,86 @@
 WC01
 1W
+Human Kami
 Creature
-3/1
+2/1
+Vigilence
+Exile CARDNAME from your graveyard: Target creature gains vigilence until EOT.
 
 WC02
-2W
-Creature - Pegasus
-Flying
-2/3
 
 WC03
-2WW
-Creature - Giant
-2/4
+Void Knight
+1WW
+2/2
+First Strike
++1/+1 if you own an exiled card.
+
+WC04
+
+WC05
+Another Knight
+WW
+2/2
+First Strike
+When CARDNAME is exiled from anywhere, you may reveal it. If you do, target creature gains first strike until EOT.
+
+WC06
+Not Actually Isamaru
+W
+Creature
+1/1
++1/+1 if you own an exiled card.
+
+WC07
+Void Squire
+1W
+1/2
+Exile a card from hand: +1/+1 until EOT, once per turn.
+
+WC08
+Small Cat
+2W
+2/2
+Creature
+When CARDNAME dies, exile it.
+
+WC09
+
+WC10
+Not Actually a Phantom Monster
+3W
+Creature
+2/2
+Flying
++1/+1 if you own an exiled card
+
+WC11
+
+WC12
+Lifelink Tokens!
+2W
+Put 2 1/1 white Lifelink creature tokens with lifelink into play.
+Voidwatch - Flash
+
+WC13
+Humiliation
+1WW
+Aura
+Enchanted creature is a 1/1 with no abilities.
+
+WC14
+
+WC15
+
+WC16
+
+WC17
+Life from the Void
+1W
+Sorcery
+Gain life equal to the number of exiled cards you own.
+Flashback 3W
+
+WC18
+
+WC19
