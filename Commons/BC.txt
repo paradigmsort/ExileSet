@@ -1,12 +1,29 @@
 BC01
+Zombie Kami
+1B
+2/2
+Exile CARDNAME from your graveyard: Discard a card.
 
 BC02
 
 BC03
+Grave Unearther
+4B
+Creature
+2/2
+When CARDNAME ETB, return target creature card from your graveyard to your hand.
+Unearth 1BB
 
 BC04
 
 BC05
+Unearth Cuthroat
+1B
+Creature
+2/1
+Intimidate
+Can't block.
+Unearth B
 
 BC06
 
@@ -21,14 +38,29 @@ BC10
 BC11
 
 BC12
+Voidur
+1BB
+Instant
+Terror
+Voidwatch - Murder
 
 BC13
 
 BC14
+Voidscard
+1BB
+Sorcery
+Target player reveals 2 cards at random from their hand. They choose one and discard the rest.
+Voidwatch - Reveal 3 at random instead.
 
 BC15
 
 BC16
+Void Dead
+B
+Instant
+Exile target creature card in a graveyard.
+Voidwatch - Return it to owner's hand instead.
 
 BC17
 
