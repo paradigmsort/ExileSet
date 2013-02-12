@@ -9,3 +9,7 @@ Creature - Pegasus
 Flying
 2/3
 
+WC03
+2WW
+Creature - Giant
+2/4
