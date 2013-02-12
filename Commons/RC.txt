@@ -1,8 +1,25 @@
 RC01
+Raging Kami
+R
+Creature
+1/1
+Haste
+Exile CARDNAME from your graveyard: Target creature gains haste until EOT.
 
 RC02
 
 RC03
+Void Striker
+RR
+Creature
+3/1
+Voidwatch - Gains first strike until EOT.
+
+Void Striker
+1R
+Creature
+2/1
+Voidwatch - +1/+0 and first strike until EOT.
 
 RC04
 
@@ -17,6 +34,11 @@ RC08
 RC09
 
 RC10
+Shock/Char
+R
+Instant
+CARDNAME deals 2 damage to target creature or player.
+Voidwatch - 4 damage instead.
 
 RC11
 
@@ -25,6 +47,11 @@ RC12
 RC13
 
 RC14
+Improper Handling
+1R
+Instant
+Destroy target artifact.
+Flashback - discard a mountain.
 
 RC15
 
