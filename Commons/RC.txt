@@ -27,13 +27,28 @@ Creature
 Voidwatch - +1/+0 and first strike until EOT.
 
 RC04
-
+Almost Dauthi Horror
+1R
+Creature - Human Soldier
+2/1
+Intimidate
+CARDNAME can't block.
 
 RC05
+Firebreathing Guy
+2R
+Creature - Minotaur Shaman
+R: +1/+0 until end of turn.
+1/3  
 
 RC06
 
 RC07
+Anaba Giant
+3RR
+Creature - Minotaur Giant
+Voidwatch - CARDNAME gains Haste until end of turn.
+4/4
 
 RC08
 Anaba fireslinger
@@ -44,6 +59,8 @@ R,T: CARDNAME deals 1 damage to target creature or player and 1 Damage to you.
 Unearth R
 
 RC09
+
+
 
 RC10
 Shock/Char
