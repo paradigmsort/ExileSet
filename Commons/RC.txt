@@ -7,6 +7,11 @@ Haste
 Exile CARDNAME from your graveyard: Target creature gains haste until EOT.
 
 RC02
+Barbarbian Fireslinger
+1RR
+Creature - Barbarian
+3/2
+When CARDNAME enters the battlefield, it deals 1 damage to target creature and 1 damage to you.
 
 RC03
 Void Striker
@@ -23,6 +28,7 @@ Voidwatch - +1/+0 and first strike until EOT.
 
 RC04
 
+
 RC05
 
 RC06
@@ -30,6 +36,12 @@ RC06
 RC07
 
 RC08
+Anaba fireslinger
+3R
+Creature - Minotaur Wizard.
+R,T: CARDNAME deals 1 damage to target creature or player and 1 Damage to you.
+2/3
+Unearth R
 
 RC09
 
