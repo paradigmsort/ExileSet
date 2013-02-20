@@ -56,6 +56,11 @@ Creature
 When CARDNAME dies, exile it.
 
 WC09
+Other Onedrop
+W
+Creature - Human
+1/1
+Whenever you pay W, gain 1 life.
 
 WC10
 Not Actually a Phantom Monster
@@ -66,6 +71,11 @@ Flying
 +1/+1 if you own an exiled card
 
 WC11
+Blocker
+3W
+Creature - Soldier
+2/4
+Vigilence
 
 WC12
 Lifelink Tokens!
@@ -80,10 +90,23 @@ Aura
 Enchanted creature is a 1/1 with no abilities.
 
 WC14
+Minor Blessing
+1W
+Aura
+W: Enchanted creature gets +1/+1 until end of turn. Play this ability only if enchanted creature is blocked.
 
 WC15
+FlashTrick
+W
+Instant
+Target creature gets +1/+1 until end of turn.
+Flashback - WW
 
 WC16
+Erasure
+2W
+Instant
+Choose one - exile all Auras, or exile all non-Aura enchantments.
 
 WC17
 Life from the Void
@@ -98,4 +121,14 @@ Path of Agriculture
 Sorcery
 Exile target Creature. Its controller gains life equal to its power.
 
+Voidify
+2WW
+Sorcery
+Exile target creature.
+
 WC19
+Void Wings
+3W
+Aura
+Enchanted creature gets +2/+2
+Voidwatch - Enchanted creature gains flying and vigilence until end of turn.
