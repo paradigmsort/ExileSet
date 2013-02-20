@@ -27,9 +27,14 @@ GC05
 Playing Mantis
 4G
 2/5
-reach
+Reach
 
 GC06
+Elephant
+1GG
+Creature - Elephant
+3/3
+Trample
 
 GC07
 Fyndhorn Shaman
@@ -43,6 +48,11 @@ Voidwalla
 Voidwatch - +2/+2  until EOT.
 
 GC09
+Durr
+2G
+Creature - Beast
+3/2
+Whenever CARDNAME attacks, regenerate it.
 
 GC10
 Voidrampler
@@ -58,6 +68,11 @@ Swampwalk
 5/3
 
 GC12
+Spider Stuff
+G
+Aura
+Enchanted creature has reach.
+Unearth GG
 
 GC13
 Greemate
@@ -67,6 +82,11 @@ Exile target card in a graveyard.
 Draw a card.
 
 GC14
+Pump Twice!
+G
+Instant
+Target creature gets +2/+2 until end of turn.
+Flashback - Discard a forest.
 
 GC15
 Voidpant Growth
@@ -75,8 +95,17 @@ Search for a basic land into play tapped. Shuffle.
 Voidwatch - Search for 2 instead.
 
 GC16
+Remove Artifacts
+G
+Sorcery
+Each player sacrifices an artifact.
 
 GC17
+Make Bears
+1G
+Sorcery
+Put a 2/2 Bear creature token into play.
+Flashback 1G 
 
 GC18
 Elephant Rampage
@@ -86,3 +115,8 @@ Destroy target noncreature, nonland permanent. Put a 3/3 green Beast creature to
 Flashback 2GG
 
 GC19
+Void Size
+2GG
+Aura
+Enchanted creature gets +2/+2
+Voidwatch - Enchanted creature gets +2/+2 until EOT.
