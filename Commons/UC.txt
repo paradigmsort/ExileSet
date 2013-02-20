@@ -12,8 +12,20 @@ Flying
 Exile the top six cards of your library: CARDNAME loses flying until EOT. Any player may activate this ability.
 
 UC03
+Awkward Flyer
+1U
+Creature - Bird
+1/1
+Flying
+You may look at the top card of your library.
 
 UC04
+Box Turtle
+2U
+Creature - Turtle
+1/3
+Shroud
+Creatures blocked by CARDNAME have shroud.
 
 UC05
 Mill Ogre
@@ -36,6 +48,12 @@ Creature
 Voidwatch - Switch CARDNAME's power and toughness until EOT.
 
 UC07
+Flying Snidd
+4U
+Creature - Snidd
+3/3
+Flying
+T: Target creature gains flying until EOT.
 
 UC08
 Boring Serpent
@@ -45,9 +63,13 @@ Defender
 Voidwatch - loses defender until EOT.
 
 UC09
+Shorten
+U
+Instant
+Target creature gets -2/-0 until EOT.
+Flashback UU
 
 UC10
-
 Impulsive Search
 1U
 Sorcery
@@ -85,10 +107,23 @@ Tap target permanent.
 Voidwatch - Return it to its owners's hand instead.
 
 UC13
+Voidcounter
+UU
+Instant
+Counter target spell unless its controller pays 2.
+Voidwatch - Its controller can't pay 2.
 
 UC14
+Flick
+U
+Instant
+Exile target creature, then return it to the battlefield under the same player's control.
 
 UC15
+Dismiss
+1UU
+Instant
+Counter target spell. If it's countered, exile it.
 
 UC16
 Draw Spell
@@ -98,6 +133,10 @@ Draw a card.
 Flashback U
 
 UC17
+Bouncy Bouncy
+U
+Instant
+Return target creature to its owner's hand. That creature's controller may discard a card to copy this spell.
 
 UC18
 1U
