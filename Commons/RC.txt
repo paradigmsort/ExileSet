@@ -1,7 +1,7 @@
 RC01
 Raging Kami
 R
-Creature
+Creature - Goblin Spirit
 1/1
 Haste
 Exile CARDNAME from your graveyard: Target creature gains haste until EOT.
@@ -16,13 +16,15 @@ When CARDNAME enters the battlefield, it deals 1 damage to target creature and 1
 RC03
 Void Striker
 RR
-Creature
+Creature - Soldier
 3/1
 Voidwatch - Gains first strike until EOT.
 
+or
+
 Void Striker
 1R
-Creature
+Creature - Soldier
 2/1
 Voidwatch - +1/+0 and first strike until EOT.
 
@@ -38,8 +40,8 @@ RC05
 Firebreathing Guy
 2R
 Creature - Minotaur Shaman
+1/3
 R: +1/+0 until end of turn.
-1/3  
 
 RC06
 Bad Blocker
@@ -52,15 +54,15 @@ RC07
 Anaba Giant
 3RR
 Creature - Minotaur Giant
-Voidwatch - CARDNAME gains Haste until end of turn.
 4/4
+Voidwatch - CARDNAME gains haste until end of turn.
 
 RC08
 Anaba fireslinger
 3R
 Creature - Minotaur Wizard.
-R,T: CARDNAME deals 1 damage to target creature or player and 1 Damage to you.
 2/3
+R,T: CARDNAME deals 1 damage to target creature or player and 1 Damage to you.
 Unearth R
 
 RC09
@@ -133,6 +135,6 @@ Voidwatch - Cardname costs 2 less.
 RC19
 Void Claws
 2RR
-Aura
+Enchantment - Aura
 Enchanted creature gets +2/+2
 Voidwatch - Enchanted creature gains double strike until end of turn.

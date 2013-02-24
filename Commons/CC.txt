@@ -7,6 +7,7 @@ Voidwatch - Add one mana of any colour instead.
 CC02
 Voidwood Sextant
 1
+Artifact
 1, Tap, Sac: Search your library for a basic land and put it into your hand.
 Voidwatch - Put it onto the battlefield tapped instead.
 
@@ -20,6 +21,7 @@ Whenever CARDNAME dies, exile it.
 CC04
 Tormod's Crypt
 0
+Artifact
 Tap, Sacrifice CARDNAME: Exile all cards in target player's graveyard.
 
 CC05

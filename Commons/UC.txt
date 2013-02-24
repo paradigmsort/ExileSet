@@ -1,12 +1,14 @@
 UC01
 Homarid Kami
 1U
+Creature - Homarid Spirit
 1/3
 Exile CARDNAME from your graveyard: Tap target creature.
 
 UC02
 Almost a flyer
 1U
+Creature - Wizard
 2/1
 Flying
 Exile the top six cards of your library: CARDNAME loses flying until EOT. Any player may activate this ability.
@@ -29,6 +31,7 @@ Creatures blocked by CARDNAME have shroud.
 
 UC05
 Mill Ogre
+2U
 Creature - Wizard
 2/2
 U,T: put top 2 cards of target player's library to his or her graveyard.
@@ -37,13 +40,15 @@ Unearth U
 UC06
 Sampler
 2U
-Creature
+Creature - Wizard
 1/3
 Voidwatch, pay 1: look at the top card of your library; you may put it on the bottom.
 
+or
+
 Turtle
 2U
-Creature
+Creature - Turtle
 1/4
 Voidwatch - Switch CARDNAME's power and toughness until EOT.
 
@@ -58,6 +63,7 @@ T: Target creature gains flying until EOT.
 UC08
 Boring Serpent
 4UU
+Creature - Serpent
 6/6
 Defender
 Voidwatch - loses defender until EOT.
@@ -74,6 +80,8 @@ Impulsive Search
 1U
 Sorcery
 Look at top 4, one in hand, exile rest.
+
+or
 
 Opt Out
 U
@@ -94,11 +102,15 @@ Instant
 Return target creature to its owner's hand
 Voidwatch - Target a permanent instead.
 
+or
+
 Voido
 1UU
 Instant
 Return target creature to its owner's hand
 Voidwatch - Return another target creature to its owner's hand.
+
+or
 
 Arm of Void
 1U
@@ -139,6 +151,7 @@ Instant
 Return target creature to its owner's hand. That creature's controller may discard a card to copy this spell.
 
 UC18
+Void Mill
 1U
 Sorcery
 Mill target player for 2X, where X is number of exiled card that player owns.
@@ -146,10 +159,12 @@ Mill target player for 2X, where X is number of exiled card that player owns.
 UC19
 Void Snare
 2UU
-Aura
+Enchantment - Aura
 Exile a card in your graveyard: Tap enchanted creature
+
+or
 
 Void Snare
 2UU
-Aure
+Enchantment - Aura
 Voidwatch: Tap enchanted creature.

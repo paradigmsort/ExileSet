@@ -1,7 +1,7 @@
 WC01
-1W
 Human Kami
-Creature
+1W
+Creature - Human Spirit
 2/1
 Vigilence
 Exile CARDNAME from your graveyard: Target creature gains vigilence until EOT.
@@ -16,6 +16,7 @@ Flying
 WC03
 Void Knight
 1WW
+Creature - Human Knight
 2/2
 First Strike
 +1/+1 if you own an exiled card.
@@ -23,14 +24,15 @@ First Strike
 WC04
 Void Healer
 2W
-Crature - Human Cleric
+Creature - Human Cleric
+1/2
 T: Prevent 1.
 Voidwatch - Prevent 2 instead.
-1/2
 
 WC05
 Another Knight
 WW
+Creature - Knight
 2/2
 First Strike
 When CARDNAME is exiled from anywhere, you may reveal it. If you do, target creature gains first strike until EOT.
@@ -38,21 +40,22 @@ When CARDNAME is exiled from anywhere, you may reveal it. If you do, target crea
 WC06
 Not Actually Isamaru
 W
-Creature
+Creature - Dog
 1/1
 +1/+1 if you own an exiled card.
 
 WC07
 Void Squire
 1W
+Creature - Human Soldier
 1/2
 Exile a card from hand: +1/+1 until EOT, once per turn.
 
 WC08
 Small Cat
 2W
+Creature - Cat
 2/2
-Creature
 When CARDNAME dies, exile it.
 
 WC09
@@ -65,7 +68,7 @@ Whenever you pay W, gain 1 life.
 WC10
 Not Actually a Phantom Monster
 3W
-Creature
+Creature - Bird
 2/2
 Flying
 +1/+1 if you own an exiled card
@@ -80,19 +83,20 @@ Vigilence
 WC12
 Lifelink Tokens!
 2W
+Sorcery
 Put 2 1/1 white Lifelink creature tokens with lifelink into play.
 Voidwatch - Flash
 
 WC13
 Humiliation
 1WW
-Aura
+Enchantment - Aura
 Enchanted creature is a 1/1 with no abilities.
 
 WC14
 Minor Blessing
 1W
-Aura
+Enchantment - Aura
 W: Enchanted creature gets +1/+1 until end of turn. Play this ability only if enchanted creature is blocked.
 
 WC15
@@ -121,6 +125,8 @@ Path of Agriculture
 Sorcery
 Exile target Creature. Its controller gains life equal to its power.
 
+or
+
 Voidify
 2WW
 Sorcery
@@ -129,6 +135,6 @@ Exile target creature.
 WC19
 Void Wings
 3W
-Aura
+Enchantment - Aura
 Enchanted creature gets +2/+2
 Voidwatch - Enchanted creature gains flying and vigilence until end of turn.

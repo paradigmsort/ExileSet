@@ -1,6 +1,7 @@
 BC01
 Zombie Kami
 1B
+Creature - Zombie Spirit
 2/2
 Exile CARDNAME from your graveyard: Discard a card.
 
@@ -21,6 +22,7 @@ Unearth 1BB
 
 BC04
 Voidpython
+4B
 Creature - Zombie
 3/2
 Voidwatch - CARDNAME gains Deathtouch until end of turn.
@@ -67,13 +69,14 @@ Unearth - Pay 3 life.
 BC10
 Kjeldoran Goliath
 4B
+Creature - Giant
 4/1
 B: Regenerate CARDNAME
 
 BC11
 Intimidating Aura
 B
-Aura
+Enchantment - Aure
 Enchanted creature has intimidate.
 Unearth BB
 
