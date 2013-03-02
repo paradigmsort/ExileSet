@@ -113,7 +113,7 @@ Creatures have haste on your next turn.
 Flashback 1R
 
 RC16
-Panic at the
+Panic at the Disco!
 R
 Sorcery
 Target creature can't block this turn.

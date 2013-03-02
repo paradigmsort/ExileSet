@@ -15,7 +15,7 @@ Flying
 BC03
 Grave Unearther
 2BB
-Creature
+Creature - Gravedigger
 2/2
 When CARDNAME ETB, return target creature card from your graveyard to your hand.
 Unearth 1BB
@@ -30,7 +30,7 @@ Voidwatch - CARDNAME gains Deathtouch until end of turn.
 BC05
 Unearth Cuthroat
 1B
-Creature
+Creature - Cutthroat
 2/1
 Intimidate
 Can't block.
