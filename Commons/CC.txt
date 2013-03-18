@@ -14,7 +14,7 @@ Voidwatch - Put it onto the battlefield tapped instead.
 CC03
 Cycloprdian Golem
 4
-Creature - Golem
+Artifact Creature - Golem
 2/3
 Whenever CARDNAME dies, exile it.
 
